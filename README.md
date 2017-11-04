@@ -1,2 +1,2 @@
-# OCRimag2
+# OCRimage2
 OCR an image in shiny with minuUI
